@@ -275,11 +275,11 @@ https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HOY_Infotainment_Channel.png/revision/latest?cb=20231221130037&path-prefix=vi",HOY資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-logo="",鳳凰衛視中文台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1280px-Phoenix_Chinese.svg.png",鳳凰衛視中文台
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1 tvg-logo="",鳳凰衛視資訊台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/440px-Phoenix_InfoNews.svg.png",鳳凰衛視資訊台
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 tvg-logo="",鳳凰衛視香港台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png",鳳凰衛視香港台
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-logo="",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -287,15 +287,15 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1890466455.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",澳視澳門
 https://live4.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="",澳視葡文
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png",澳視葡文
 https://live4.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="",澳門體育
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png",澳門體育
 https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="",澳門資訊
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbpB9wfeqLif41Y4ZbWh8OzYi3v0525VY0AcG5Ov5&s",澳門資訊
 https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="",澳門綜藝
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/500px-TDM_Entertainment.png",澳門綜藝
 https://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="",澳門 - MACAU 衛星
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/87/TDM_Ou_Mun_Macau_logo.png/500px-TDM_Ou_Mun_Macau_logo.png",澳門 - MACAU 衛星
 https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="",澳門蓮花衛視
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -313,29 +313,29 @@ https://live.streamingfast.net/osmflivech2.m3u8
 https://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
 #EXTINF:-1 tvg-logo="",生命電視台
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.mpd
-#EXTINF:-1 tvg-logo="",希望綜合台
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tiQwFgWjU4BCniat_UQRH1Nwiz9yBJeOFA&s",希望綜合台
 https://videodelivery.net/f9fac529ef8cc8f8dc702ac06116ad1b/manifest/video.m3u8
-#EXTINF:-1 tvg-logo="",大立電視台
+#EXTINF:-1 tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png",大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-logo="",唯心電視台
+#EXTINF:-1 tvg-logo="https://wxtv.com.tw/public/assets/images/web-logo.png",唯心電視台
 https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",NHK WORLD-JAPAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png",NHK WORLD-JAPAN
 https://bmcc.nhkworld.jp/live/index_1M.m3u8
-#EXTINF:-1 tvg-logo="",新唐人美東台
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",新唐人美東台
 https://live.ntdtv.com/live900/playlist.m3u8
-#EXTINF:-1 tvg-logo="",新唐人美西台
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",新唐人美西台
 https://live.ntdtv.com/uwlive990/playlist.m3u8
-#EXTINF:-1 tvg-logo="",新唐人歐洲台
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",新唐人歐洲台
 https://live.ntdtv.com/eulive600/playlist.m3u8
-#EXTINF:-1 tvg-logo="",新唐人加東台
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",新唐人加東台
 https://live.ntdtv.com/mllive860/playlist.m3u8
-#EXTINF:-1 tvg-logo="",新唐人加西台
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",新唐人加西台
 https://live.ntdtv.com/cwlive220/playlist.m3u8
-#EXTINF:-1 tvg-logo="",新唐人舊金山台
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",新唐人舊金山台
 https://live.ntdtv.com/sflive990/playlist.m3u8
-#EXTINF:-1 tvg-logo="",新唐人休斯頓台
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",新唐人休斯頓台
 https://live.ntdtv.com/htlive480/playlist.m3u8
-#EXTINF:-1 tvg-logo="",新唐人中國台
+#EXTINF:-1 tvg-logo="https://www.ntdtv.com.tw/staticelement/img/aboutus/ntd_logo.png",新唐人中國台
 https://live.ntdtv.com/cnlive900/playlist.m3u8
 #EXTINF:-1 tvg-logo="",美國中文電視
 https://cdnts.sinovision.net/livestream.m3u8
