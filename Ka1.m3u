@@ -1,0 +1,72 @@
+中央電視台
+CCTV-1 綜合,http://219.128.121.202:59901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-2 財經,http://219.128.121.202:59901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV-3 綜藝,http://219.128.121.202:59901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV-4 中文國際,http://219.128.121.202:59901/tsfile/live/1003_1.m3u8?key=txiptv
+CCTV-5 體育,http://219.128.121.202:59901/tsfile/live/1004_1.m3u8?key=txiptv
+CCTV-5+ 體育賽事,http://219.128.121.202:59901/tsfile/live/1005_1.m3u8?key=txiptv
+CCTV-6電影,http://219.128.121.202:59901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV-7 國防軍事,http://219.128.121.202:59901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV-8 電視劇,http://219.128.121.202:59901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV-9 記錄,http://219.128.121.202:59901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV-10 科教,http://219.128.121.202:59901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV-11 戲曲,http://219.128.121.202:59901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV-12 社會與法,http://219.128.121.202:59901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV-13 新聞,http://219.128.121.202:59901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV-14 少兒,http://219.128.121.202:59901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV-15 音樂,http://219.128.121.202:59901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV-17 農業農村,http://www.8700956.top:18888/rtp/239.81.1.019:4056
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC影迷電影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+CHC動作電影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+香港
+翡翠台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+
+
+
+
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8 
+耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+
+澳門
+澳門蓮花衛視,http://php.jdshipin.com:8880/amlh.php
+台灣
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+唯心電視台,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+新加坡
+
+新 | CNA亞洲新聞台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8 
+日 | NTV NEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+日 | QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8 
+日 | SHOP CHANNEL,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8#http://stream1.shopch.jp/HLS/out2/prog_index.m3u8 
+韓 | 阿里郎國際廣播,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韓 | BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8 
+韓 | CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8 
+韓 | EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8 
+韓 | EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韓 | EBS+1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8 
+韓 | EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8 
+韓 | EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8 
+韓 | KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韓 | KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8 
+韓 | KFN國防軍事台,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+韓 | NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8 
+韓 | TJB,http://1.245.74.5:1935/live/tv/.m3u8 
+俄 | BRICS 中文,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8 
+俄 | BRICS 英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+俄 | RT-NEWS,https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8 
+俄 | RT-DOC,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8 
+俄 | UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+泰 | NEWS1,http://news1.live14.com/stream/news1_hi.m3u8
+卡 | 半島電視台 阿拉伯語頻道,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+卡 | 半島電視台 英語頻道, http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+美 | EWTN,https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+REDBULL SPORTS,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8 
+
+
+FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
