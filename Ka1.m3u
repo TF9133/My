@@ -5,7 +5,7 @@ CCTV-3 綜藝,http://219.128.121.202:59901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-4 中文國際,http://219.128.121.202:59901/tsfile/live/1003_1.m3u8?key=txiptv
 CCTV-5 體育,http://219.128.121.202:59901/tsfile/live/1004_1.m3u8?key=txiptv
 CCTV-5+ 體育賽事,http://219.128.121.202:59901/tsfile/live/1005_1.m3u8?key=txiptv
-CCTV-6電影,http://219.128.121.202:59901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV-6 電影,http://219.128.121.202:59901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-7 國防軍事,http://219.128.121.202:59901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV-8 電視劇,http://219.128.121.202:59901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9 記錄,http://219.128.121.202:59901/tsfile/live/0009_1.m3u8?key=txiptv
@@ -16,19 +16,15 @@ CCTV-13 新聞,http://219.128.121.202:59901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-14 少兒,http://219.128.121.202:59901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV-15 音樂,http://219.128.121.202:59901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV-17 農業農村,http://www.8700956.top:18888/rtp/239.81.1.019:4056
-CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-CHC影迷電影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
-CHC動作電影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+CHC 家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC 影迷電影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+CHC 動作電影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+
 香港
 翡翠台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-
-
-
-
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8 
-耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+環球電視台,http://zb.xzxwhcb.com:9999/hls/world.m3u8 
+耀才財經頻道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 
 澳門
