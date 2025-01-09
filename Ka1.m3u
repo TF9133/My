@@ -16,9 +16,79 @@ CCTV-13 新聞,http://219.128.121.202:59901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-14 少兒,http://219.128.121.202:59901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV-15 音樂,http://219.128.121.202:59901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV-17 農業農村,http://www.8700956.top:18888/rtp/239.81.1.019:4056
+CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+*CGTN 西班牙語,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+*CGTN 法語,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+*CGTN 阿拉伯語,https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+*CGTN 俄語,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+*CGTN 紀錄,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CHC 家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 CHC 影迷電影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 CHC 動作電影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+
+冀 | 邢臺綜合,https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+
+吉 | 
+吉 | 延邊衛視,https://live.ybtvyun.com/video/s10006-b1b09ca0e73d/index.m3u8
+吉 | 延邊韓語綜合,https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
+吉 | 延邊漢語綜合,https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
+黑 | 
+黑 | 哈爾濱新聞綜合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
+黑 | 哈爾濱生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
+黑 | 哈爾濱影視,https://stream.hrbtv.net/yspd/sd/live.m3u8
+蘇 | 
+蘇 | 南京新聞綜合,https://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8 
+蘇 | 南京十八·生活,https://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
+蘇 | 南京教科,https://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
+蘇 | 南京文旅紀錄,https://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
+蘇 | 南京少兒,https://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+蘇 | 連雲港新聞綜合,http://live.lyg1.com/zhpd/sd/live.m3u8
+蘇 | 連雲港生活,http://live.lyg1.com/ggpd/sd/live.m3u8
+蘇 | 鎮江新聞綜合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+蘇 | 鎮江社會民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+
+浙 | *浙江衛視,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+浙 | 浙江錢江都市,http://ali-vl.cztv.com/channels/lantian/channel002/360p.m3u8
+浙 | 浙江經濟生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+浙 | 浙江教科影視,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+浙 | 浙江影視娛樂,http://ali-vl.cztv.com/channels/lantian/channel005/360p.m3u8
+浙 | 浙江民生休閒,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
+浙 | 浙江新聞,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
+浙 | 浙江少兒,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+浙 | 浙江國際,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
+浙 | 浙江好易購,http://ali-vl.cztv.com/channels/lantian/channel011/360p.m3u8
+浙 | 浙江之江紀錄,http://ali-vl.cztv.com/channels/lantian/channel012/360p.m3u8
+浙 | 蕭山綜合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+浙 | 餘杭新聞,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+浙 | 餘姚新聞綜合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+浙 | 餘姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+浙 | 文成新聞綜合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+浙 | 蒼南新聞綜合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+浙 | 平湖新聞綜合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+浙 | 紹興新聞綜合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+浙 | 紹興公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+浙 | 紹興文化影視,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+浙 | 普陀電視台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+浙 | 青田電視台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+
+閩 | 
+閩 | 福州新聞綜合,https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+閩 | 福州生活,https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+閩 | 福州少兒,https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+閩 | 漳州新聞綜合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
+
+鄂 | 
+鄂 | 荊門新聞綜合,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+鄂 | 荊門公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
+鄂 | 荊門科教文旅,https://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+
+粵 | 
+廣東衛視,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
+
+
+
+
+
 
 香港
 翡翠台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
